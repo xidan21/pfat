@@ -24,15 +24,15 @@ None
 How to run ?
 ============
 
-To run Pfat, start terminal to enter "$pfat_mac/bin/" and type:
+To run Pfat, start terminal to enter "$pfat_linux/bin/" and type:
 
 python pfat
 
-NOTE: 1) For quick testing, the example input data are provided in the file "$pfat_mac/example/example.txt"
+NOTE: 1) For quick testing, the example input data are provided in the file "$pfat_linux/example/example.txt"
 
       2) The input sequence must be regular amino acids sequences.
 
-      3) All the protein seqeunces can be found in the file "$pfat_mac/result/*.fasta"
+      3) All the protein seqeunces can be found in the file "$pfat_linux/result/*.fasta"
 
 
 
